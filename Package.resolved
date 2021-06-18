@@ -30,11 +30,11 @@
       },
       {
         "package": "liquid-kit",
-        "repositoryURL": "https://github.com/binarybirds/liquid-kit.git",
+        "repositoryURL": "https://github.com/MoveUpwardsDev/liquid-kit.git",
         "state": {
-          "branch": null,
-          "revision": "1a765f00acd7743878b871c9841507e85d37c567",
-          "version": "1.2.0"
+          "branch": "feature/get-object",
+          "revision": "5392a24a63d438f9c0e8ee77eb8fd6c5f95ad983",
+          "version": null
         }
       },
       {
